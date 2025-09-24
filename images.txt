@@ -12,7 +12,6 @@ openjdk
 maven
 # 消息队列类
 rabbitmq
-kafka
 # 前端静态服务必备
 nginx
 # 最常见数据库和缓存
