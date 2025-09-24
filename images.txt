@@ -1,8 +1,30 @@
-#nginx
-#alpine
-#支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
-outlovecn/portainer-cn
+# 基础镜像
+alpine
+debian
+ubuntu
+# CI/CD & 运维必备
+docker
+# 常见语言构建环境
+golang
+node
+python
+openjdk
+maven
+# 消息队列类
+rabbitmq
+kafka
+# 前端静态服务必备
+nginx
+# 最常见数据库和缓存
+mongo
+mysql
+postgres
+# 其他应用
+fatedier/frp
+ghcr.io/umami-software/umami
+imaegoo/twikoo
+redis
+portainer/portainer-ce
+phpmyadmin
+minio/minio
+jenkins/jenkins
