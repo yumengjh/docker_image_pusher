@@ -20,8 +20,8 @@ mysql
 postgres
 # 其他应用
 fatedier/frp
-docker pull ghcr.io/umami-software/umami:postgresql-latest
-docker pull ghcr.io/umami-software/umami:mysql-latest
+ghcr.io/umami-software/umami:postgresql-latest
+ghcr.io/umami-software/umami:mysql-latest
 imaegoo/twikoo
 redis
 portainer/portainer-ce
