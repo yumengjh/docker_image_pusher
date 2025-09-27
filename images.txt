@@ -1,1 +1,30 @@
-arm64v8/mysql
+# 基础镜像
+alpine
+debian
+ubuntu
+# CI/CD & 运维必备
+docker
+# 常见语言构建环境
+golang
+node
+python
+openjdk
+maven
+# 消息队列类
+rabbitmq
+# 前端静态服务必备
+nginx
+# 最常见数据库和缓存
+mongo
+mysql
+postgres
+# 其他应用
+fatedier/frp
+ghcr.io/umami-software/umami:postgresql-latest
+ghcr.io/umami-software/umami:mysql-latest
+imaegoo/twikoo
+redis
+portainer/portainer-ce
+phpmyadmin
+minio/minio
+jenkins/jenkins
